@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+  <html>
+    <body>
+      <a href = "index.html"><h4>HOME</h4></a>
+     <p>Hobbies</p>
+       <img width = "200" src ="hobbies.PNG" alt="football"/>
+       <br>
+     <p>Interests</p>
+       <img width = "200" src ="interests.jpg" alt="programming"/>
+       <br>
+     
+    </body> 
